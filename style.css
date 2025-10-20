@@ -1,0 +1,13 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(135deg,#e9f0f8,#f8fafc);
+}
+.glass-card {
+  background: rgba(255,255,255,0.88);
+  border-radius: 12px;
+  box-shadow: 0 10px 30px rgba(20,40,80,0.06);
+  border: 1px solid rgba(200,210,230,0.6);
+}
+#resultsTable th, #resultsTable td { text-align: center; vertical-align: middle; }
+#interactive.viewport video { width: 100%; border-radius: 10px; }
+#inlineScannerArea { background: rgba(255,255,255,0.95); border-radius: 12px; box-shadow: 0 6px 16px rgba(0,0,0,0.05); }
